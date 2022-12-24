@@ -23,8 +23,8 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="reactjs" width="auto" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeroapriyansah&show_icons=true&locale=en&layout=compact" alt="jeroapriyansah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munchkin-11&show_icons=true&locale=en&layout=compact" alt="jeroapriyansah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeroapriyansah&show_icons=true&locale=en" alt="jeroapriyansah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munchkin-11&show_icons=true&locale=en" alt="jeroapriyansah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeroapriyansah&" alt="jeroapriyansah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munchkin-11&" alt="jeroapriyansah" /></p>
